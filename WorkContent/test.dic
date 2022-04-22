@@ -1,0 +1,24 @@
+#Below are test sample, you should past the test first to make a pull requests
+
+（配置参数为TOTAL_STATION = 10、STRATEGY = FCFS、DISTANCE = 3）
+clock
+counterclockwise 3
+clock
+clock
+clock
+clock
+clock
+clock
+target 10
+clock
+clock
+clock
+clock
+clock
+clock
+clock
+clock
+clock
+clock
+clock
+end

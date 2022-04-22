@@ -1,0 +1,8 @@
+#This is the dictional file
+#TOTAL_STATION : 2 ~ 10
+#DISTANCE : 1 ~ 6
+#STRATEGY : {FCFS(先来先服务）, SSTF(最短寻找时间优先）， SCAN(顺便服务）}
+
+TOTAL_STATION = 10
+DISTANCE = 3
+STRATEGY = FCFS

@@ -1,0 +1,118 @@
+#Check the Output while you run with the test.dic
+
+
+BUS:
+position:0
+target: 0000000000
+STATION:
+clockwise: 0000000000
+counterclockwise: 0000000000
+BUS:
+position:0
+target: 0000000000
+STATION:
+clockwise: 0000000000
+counterclockwise: 0000000000
+BUS:
+position:1
+target: 0000000000
+STATION:
+clockwise: 0000000000
+counterclockwise: 0010000000
+BUS:
+position:2
+target: 0000000000
+STATION:
+clockwise: 0000000000
+counterclockwise: 0010000000
+BUS:
+position:3
+target: 0000000000
+STATION:
+clockwise: 0000000000
+counterclockwise: 0010000000
+BUS:
+position:4
+target: 0000000000
+STATION:
+clockwise: 0000000000
+counterclockwise: 0010000000
+BUS:
+position:5
+target: 0000000000
+STATION:
+clockwise: 0000000000
+counterclockwise: 0010000000
+BUS:
+position:6
+target: 0000000000
+STATION:
+clockwise: 0000000000
+counterclockwise: 0010000000
+BUS:
+position:6
+target: 0000000001
+STATION:
+clockwise: 0000000000
+counterclockwise: 0000000000
+BUS:
+position:5
+target: 0000000001
+STATION:
+clockwise: 0000000000
+counterclockwise: 0000000000
+BUS:
+position:4
+target: 0000000001
+STATION:
+clockwise: 0000000000
+counterclockwise: 0000000000
+BUS:
+position:3
+target: 0000000001
+STATION:
+clockwise: 0000000000
+counterclockwise: 0000000000
+BUS:
+position:2
+target: 0000000001
+STATION:
+clockwise: 0000000000
+counterclockwise: 0000000000
+BUS:
+position:1
+target: 0000000001
+STATION:
+clockwise: 0000000000
+counterclockwise: 0000000000
+BUS:
+position:0
+target: 0000000001
+STATION:
+clockwise: 0000000000
+counterclockwise: 0000000000
+BUS:
+position:29
+target: 0000000001
+STATION:
+clockwise: 0000000000
+counterclockwise: 0000000000
+BUS:
+position:28
+target: 0000000001
+STATION:
+clockwise: 0000000000
+counterclockwise: 0000000000
+BUS:
+position:27
+target: 0000000001
+STATION:
+clockwise: 0000000000
+counterclockwise: 0000000000
+BUS:
+position:27
+target: 0000000000
+STATION:
+clockwise: 0000000000
+counterclockwise: 0000000000
+end
